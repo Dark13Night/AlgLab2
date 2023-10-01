@@ -1,0 +1,14 @@
+D:\Labs\Lab32\Lab32\bin\Debug\net6.0\Lab32.exe
+D:\Labs\Lab32\Lab32\bin\Debug\net6.0\Lab32.deps.json
+D:\Labs\Lab32\Lab32\bin\Debug\net6.0\Lab32.runtimeconfig.json
+D:\Labs\Lab32\Lab32\bin\Debug\net6.0\Lab32.dll
+D:\Labs\Lab32\Lab32\bin\Debug\net6.0\Lab32.pdb
+D:\Labs\Lab32\Lab32\obj\Debug\net6.0\Lab32.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\Lab32\Lab32\obj\Debug\net6.0\Lab32.AssemblyInfoInputs.cache
+D:\Labs\Lab32\Lab32\obj\Debug\net6.0\Lab32.AssemblyInfo.cs
+D:\Labs\Lab32\Lab32\obj\Debug\net6.0\Lab32.csproj.CoreCompileInputs.cache
+D:\Labs\Lab32\Lab32\obj\Debug\net6.0\Lab32.dll
+D:\Labs\Lab32\Lab32\obj\Debug\net6.0\refint\Lab32.dll
+D:\Labs\Lab32\Lab32\obj\Debug\net6.0\Lab32.pdb
+D:\Labs\Lab32\Lab32\obj\Debug\net6.0\Lab32.genruntimeconfig.cache
+D:\Labs\Lab32\Lab32\obj\Debug\net6.0\ref\Lab32.dll
